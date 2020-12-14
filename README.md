@@ -56,3 +56,5 @@ Explain how you manage with class 2 interrupted tasks, their service and respons
 c.3. Compare all results with those obtained with Algorithm 1.
 c.4. Modify queueing model in step b.1. to include Algorithm 2.
 c.5. Derive an analytical solution and validate the simulation results.
+
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
